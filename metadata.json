@@ -1,0 +1,6 @@
+{
+  "name": "PRO PATH - Carreira Profissional",
+  "description": "Simulador tático e profissional de carreira de futebol. Gestão de treinos, disputa de elenco, contratos profissionais e match engine autêntica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
